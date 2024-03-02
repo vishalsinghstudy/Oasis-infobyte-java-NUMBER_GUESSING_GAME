@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class Task2 {
     public static void guessingNumberGame() {
         Scanner sc = new Scanner(System.in);

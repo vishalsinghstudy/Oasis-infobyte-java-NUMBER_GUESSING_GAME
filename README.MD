@@ -3,7 +3,7 @@
 
 This Java program implements a simple game where the user has to guess a random number between 1 and 100 in 5 trials or less. The program gives hints to the user after each guess, indicating whether the number is greater or less than their guess. If the user is unable to guess the number within 5 trials, the program reveals the number.
 
-# How to Play
+## How to Play
 
 1. Compile and run the Java program.
 
@@ -25,7 +25,7 @@ This Java program implements a simple game where the user has to guess a random 
 
 6. If you guess the number correctly, the program will print a congratulations message. If you are unable to guess the number, the program will reveal the number.
 
-# Compiling and Running
+## Compiling and Running
 
 To compile the program, navigate to the directory containing the Java file and run the following command:
 
@@ -39,7 +39,7 @@ To run the program, run the following command:
 ```
 Note: This program requires Java 8 or higher to run.
 
-# License
+## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
 ## 🔗 Contact 
